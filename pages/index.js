@@ -10,7 +10,7 @@ export default function CreativeBlog() {
       id: 1,
       title: 'The Art of Digital Expression',
       excerpt: 'Exploring how creativity thrives in digital spaces and what it means to create in the modern world.',
-      date: 'June 15, 2024',
+      date: 'June 30, 2026',
       readTime: '5 min read',
       color: '#7F77DD'
     },
@@ -18,7 +18,7 @@ export default function CreativeBlog() {
       id: 2,
       title: 'Finding Inspiration in Everyday Moments',
       excerpt: 'Small observations, big ideas. How to train your eye to see the extraordinary in the ordinary.',
-      date: 'June 8, 2024',
+      date: 'June 30, 2026',
       readTime: '7 min read',
       color: '#1D9E75'
     },
@@ -26,7 +26,7 @@ export default function CreativeBlog() {
       id: 3,
       title: 'The Creative Process Unveiled',
       excerpt: 'A deep dive into how artists, designers, and creators develop their unique voice and perspective.',
-      date: 'May 31, 2024',
+      date: 'June 30, 2026',
       readTime: '8 min read',
       color: '#D85A30'
     }
